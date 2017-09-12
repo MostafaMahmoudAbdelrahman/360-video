@@ -476,7 +476,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11498420, guid: 5a12218ea7e5b7a4e8b89d25e07d237d, type: 2}
       propertyPath: m_VideoPath
-      value: https://www.dropbox.com/s/vl02p4l6xxb2j5k/IndiaStreetRide-.kava.mp4?dl=1
+      value: https://www.dropbox.com/s/2rfx762yfr5pj0o/IndiaStreetRide-.kava.mp4?dl=1
       objectReference: {fileID: 0}
     - target: {fileID: 427526, guid: 5a12218ea7e5b7a4e8b89d25e07d237d, type: 2}
       propertyPath: m_LocalRotation.y
